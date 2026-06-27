@@ -8,7 +8,6 @@ Add your name **alphabetically** and link your updates to the corresponding tabl
 
 Phase one is the very beginning of the cohort. The first few weeks are dedicated to general learning about the EPF program, the Ethereum protocol as a whole and its development. Use resources from [EPF Study group](https://epf.wiki) to get started and make yourself familiar with various areas of Ethereum.
 
-
 | Name/GH                                              | Week 0                                                                                              | Week 1                                                                                         | Week 2 |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------ |
 | [Aarish](https://github.com/aarishnaiyer)            | [Update 0](https://hackmd.io/@KkIQfF7fRl6hdN__0PApfw/Syz-F0gzMg)                                    | [Update 1](https://hackmd.io/@KkIQfF7fRl6hdN__0PApfw/SknpMWtGMg)                               |        |
@@ -38,7 +37,7 @@ Phase one is the very beginning of the cohort. The first few weeks are dedicated
 | [Mary](https://github.com/maryodior)                 |                                                                                                     | [Update 1](https://hackmd.io/@x68iqv9FTyOkG8bkePB-mw/rJyeU3PMze)                               |        |
 | [Meek](https://github.com/mmsaki)                    | [Update 0](https://hackmd.io/@YBDu_chCTnKXFnYTkux9tQ/HJ5Rqa1zzx)                                    | [Update 1](https://hackmd.io/@YBDu_chCTnKXFnYTkux9tQ/rJvMCpJzfg)                               |        |
 | [Mohit](https://github.com/groverInnovate)           | [Update 0](https://hackmd.io/@groverInnovate/EPF7_Week0)                                            |                                                                                                |        |
-| [Parth](https://github.com/ParthSinghPS)             | [Update 0](https://hackmd.io/@ParthSinghPS/HJMWUn6xzg)                                              |                                                                                                |        |
+| [Parth](https://github.com/ParthSinghPS)        | [Update 0](https://hackmd.io/@ParthSinghPS/HJMWUn6xzg)                                              | [Update 1](https://hackmd.io/@ParthSinghPS/HyU9GnrzGe) |        |
 | [Parth Dagia](https://github.com/parthdagia05)       | [Update 0](https://hackmd.io/@lw7hY5nDSFS83Br8wInrJg/HJuwIDSGze)                                    |                                                                                                |        |
 | [Rahul](https://github.com/rahulbarmann/)            | [Update 0](https://hackmd.io/@8t0zzURJSC6IX5BOuOiGqQ/Sk0vwhHZfg)                                    | [Update 1](https://hackmd.io/@8t0zzURJSC6IX5BOuOiGqQ/H1zaO0rGGg)                               |        |
 | [Raphina](https://github.com/stamp9/)                |                                                                                                     | [Update 0/1](https://hackmd.io/NN9diNPZQiyzHi-HyaZWjg)                                         |        |
